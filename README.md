@@ -19,7 +19,7 @@ The initial target platform is **Windows**. Additional PC features and multiplay
 ## Development Progress
 
 **Last updated:** October 15, 2026  
-**Estimated overall progress:** ~30-35%** toward a complete, faithful single-player port  
+**Estimated overall progress:** ~30-35% toward a complete, faithful single-player port  
 
 These percentages are rough development estimates, **not measured source-code coverage**. They represent how close each area is to a complete, integrated, and verified implementation. The overall figure is not an average of the individual categories: missing gameplay systems weigh more heavily than completed research or asset-import work.
 

@@ -40,23 +40,23 @@ Internal development and testing have reached several milestones:
 
 | Area | Estimated progress | Current state / remaining work |
 | --- | --- | --- |
-| Disc data and resource formats | 85–95% | Many formats have been decoded and checked; edge cases and full integration remain. |
-| Native runtime and architecture | 60–75% | An internal Windows runtime exists; resource management and original systems still need work. |
-| Graphics, models, and textures | 55–70% | Many scenes render; materials, lighting, water, transparency, and visibility need refinement. |
-| Keyboard and controller input | 70–85% | Basic input and remapping exist; complete gameplay verification and edge cases remain. |
-| Player movement and physics | 40–55% | Core movement and some reconstructed routines exist; collisions and state transitions need work. |
-| Animation and gadget attachment | 30–45% | Original animation data is being used; transitions, character details, and special states remain incomplete. |
-| Cameras | 50–65% | Several original camera behaviors have been reconstructed; scripted and special-case cameras remain. |
-| HUD, menus, and screens | 60–75% | Many interfaces are present internally; animations, effects, and complete interactions need refinement. |
-| Music, sound, and voices | 40–60% | Native playback is partially implemented; event timing and voice assignments need verification. |
-| Gadgets and transformations | 25–40% | Some basic behavior exists; full mechanics, animation, and state handling remain unfinished. |
-| Monkey AI | 15–30% | Some original data and reaction routines have been reconstructed; complete AI integration is still missing. |
-| Enemies and bosses | 10–25% | Early placeholder behavior exists; original attacks, state machines, and fight phases remain incomplete. |
-| Collisions, doors, switches, and moving objects | 30–50% | Foundational systems exist; behavior must be checked and completed across individual areas. |
-| Progression, world selection, and saving | 45–65% | Early save and progression systems exist; complete story progression and edge cases remain. |
-| Particles and special effects | 25–45% | Some effect data and rendering paths have been explored; triggering and timing are incomplete. |
-| Full playthrough, testing, and performance | 15–30% | Individual tests exist, but complete playthrough validation and performance work remain. |
-| Optional multiplayer | 15–30% | Split-screen and networking experiments exist; functional co-op and real-world networking are not complete. |
+| Disc data and resource formats | 90% | Many formats have been decoded and checked; edge cases and full integration remain. |
+| Native runtime and architecture | 70% | An internal Windows runtime exists; resource management and original systems still need work. |
+| Graphics, models, and textures | 65% | Many scenes render; materials, lighting, water, transparency, and visibility need refinement. |
+| Keyboard and controller input | 80% | Basic input and remapping exist; complete gameplay verification and edge cases remain. |
+| Player movement and physics | 60% | Core movement and some reconstructed routines exist; collisions and state transitions need work. |
+| Animation and gadget attachment | 50% | Original animation data is being used; transitions, character details, and special states remain incomplete. |
+| Cameras | 65% | Several original camera behaviors have been reconstructed; scripted and special-case cameras remain. |
+| HUD, menus, and screens | 75% | Many interfaces are present internally; animations, effects, and complete interactions need refinement. |
+| Music, sound, and voices | 60% | Native playback is partially implemented; event timing and voice assignments need verification. |
+| Gadgets and transformations | 40% | Some basic behavior exists; full mechanics, animation, and state handling remain unfinished. |
+| Monkey AI | 30% | Some original data and reaction routines have been reconstructed; complete AI integration is still missing. |
+| Enemies and bosses | 25% | Early placeholder behavior exists; original attacks, state machines, and fight phases remain incomplete. |
+| Collisions, doors, switches, and moving objects | 55% | Foundational systems exist; behavior must be checked and completed across individual areas. |
+| Progression, world selection, and saving | 65% | Early save and progression systems exist; complete story progression and edge cases remain. |
+| Particles and special effects | 55% | Some effect data and rendering paths have been explored; triggering and timing are incomplete. |
+| Full playthrough, testing, and performance | 25% | Individual tests exist, but complete playthrough validation and performance work remain. |
+| Optional multiplayer | 25% | Split-screen and networking experiments exist; functional co-op and real-world networking are not complete. |
 
 These estimates describe **development maturity, not public availability**. Reconstructed code that has not been integrated into gameplay is not counted as a finished gameplay feature, and none of these figures should be used to predict a release date.
 
